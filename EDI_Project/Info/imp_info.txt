@@ -1,0 +1,11 @@
+Username - gutteyash26_db_user
+Password - 8EYi0Ls9kZpXpcOp
+
+mongodb+srv://gutteyash26_db_user:8EYi0Ls9kZpXpcOp@cluster0.fh6o9ol.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+To run frontend : npm run dev
+
+To run backend : cd backend, backend_venv\Scripts\activate, uvicorn main:app --reload --env-file .env
+
+https://905418368332.signin.aws.amazon.com/console
